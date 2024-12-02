@@ -8,11 +8,9 @@ Metaheuristic algorithms are widely used in optimization problems where finding 
 ### Functions Explored  
 1. **Rastrigin Function**  
    - A non-convex function characterized by its large search space and multiple local minima.
-   - \( f(x) = A \cdot n + \sum_{i=1}^n \left[ x_i^2 - A \cdot \cos(2\pi x_i) \right] \), where \( A = 10 \).
 
 2. **Sum of Squares Function**  
    - A simpler function often used as a baseline for optimization algorithms.
-   - \( f(x) = \sum_{i=1}^n i \cdot x_i^2 \).
 
 ## Notebook Contents  
 The Python Notebook includes:
